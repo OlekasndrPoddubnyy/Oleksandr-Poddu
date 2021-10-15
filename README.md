@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oleksandr-Poddu
 - 👀 I’m interested in program langueges
-- 🌱 I’m currently learning lava ,C++.
+- 🌱 I’m currently learning Java ,C++, OCaml, C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me oleksandr.poddu@gmail.com
 
